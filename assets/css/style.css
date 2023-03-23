@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*This is the header section */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,7 +51,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*Background image after the header */
 .background-image {
     height: 800px;
     width: 100%;
@@ -61,7 +61,7 @@ p {
     background-position: center;
     display: block;
 }
-
+/* displays photos and text to their desired locations */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -77,7 +77,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* This is the benefits section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -104,9 +104,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-
-
+/* This is the services section */
 .Services {
     margin-bottom: 20px;
     padding: 50px;
@@ -125,7 +123,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Here is the footer section. */
 footer {
     padding: 30px;
     clear: both;
