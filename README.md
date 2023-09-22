@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository was used to rework the code for the Horiseon webpage. In the new code we added semantic elements, alt elements to make it more accessible, and condensed the CSS to make it more clean and efficient. Finally we deployed the application.
+This repository contains a refactored codebase for a marketing agency's website, with a focus on improving accessibility standards. The goal of this project is to ensure that the website is optimized for search engines and can be navigated by users with disabilities using assistive technologies. 
 
 
 
